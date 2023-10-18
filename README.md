@@ -1,5 +1,5 @@
 ## Recipe Page
-Created a filipino recipe page to showcase what I've learnt so far using basic HTML.
+Created a filipino recipe page to showcase what I've learnt so far using basic HTML. <br>
 Live site: https://dyln-n.github.io/odin-recipes/
 
 ## Tech Used
